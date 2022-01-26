@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About1323
+title: About
 permalink: /about/
 ---
 Benjamin의 블로그입니다. 

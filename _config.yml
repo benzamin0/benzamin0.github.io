@@ -19,8 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 locale: ko-KR
-title: Benjalog입니다.
-masthead_title: Benjalog
+title: Benjalog
 email: crazyybogus@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Benjamin Blog

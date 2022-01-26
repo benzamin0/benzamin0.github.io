@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: page
 title: Aboutbbb
 permalink: /about/
----
+--- -->
 
 ## Theme Monos
 > Simple and lightweight theme for Jekyll
