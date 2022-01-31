@@ -28,6 +28,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  benzamin0
 
+#customizing
+#reference)https://hoisharka.github.io/jekyll/2017/12/03/jekyll-category-001/
+category_dir: category/
+tag_dir: tag/
+
 # Build settings
 theme: minima
 plugins:
